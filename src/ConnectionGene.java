@@ -1,5 +1,3 @@
-package com.evo.NEAT;
-
 /**
  * ConnectionGene Represents the connection(Axon) of the neuron
  * ConnectionGenes can completely represent the neuron as Nodes are generated while performing operation

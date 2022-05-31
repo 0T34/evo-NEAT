@@ -1,10 +1,6 @@
-package com.evo.NEAT;
-
 /**
  * Created by vishnu on 7/1/17.
  */
-
-import com.evo.NEAT.com.evo.NEAT.config.NEAT_Config;
 
 import java.util.ArrayList;
 import java.util.Collections;

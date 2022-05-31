@@ -1,7 +1,3 @@
-package com.evo.NEAT;
-
-import com.evo.NEAT.com.evo.NEAT.config.NEAT_Config;
-
 import javax.management.RuntimeErrorException;
 import java.io.*;
 import java.util.*;

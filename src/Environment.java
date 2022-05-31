@@ -1,5 +1,3 @@
-package com.evo.NEAT;
-
 import java.util.ArrayList;
 
 /**

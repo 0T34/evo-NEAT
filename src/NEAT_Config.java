@@ -1,5 +1,3 @@
-package com.evo.NEAT.com.evo.NEAT.config;
-
 /**
  * Created by vishnughosh on 01/03/17.
  */

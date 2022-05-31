@@ -1,8 +1,3 @@
-package com.evo.NEAT;
-
-
-import com.evo.NEAT.com.evo.NEAT.config.NEAT_Config;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;

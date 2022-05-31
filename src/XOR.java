@@ -1,9 +1,3 @@
-package examples;
-
-import com.evo.NEAT.Environment;
-import com.evo.NEAT.Genome;
-import com.evo.NEAT.Pool;
-
 import java.util.ArrayList;
 
 /**
